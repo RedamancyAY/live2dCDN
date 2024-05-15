@@ -15,7 +15,7 @@ var touch_special;
 var model_x = 5;
 var model_y = 0;
 var modelWidth = 380;
-var modelHight = 350;
+var modelHight = 380;
 var scale = 25;
 var startTime;
 function loadMotions(motions){
