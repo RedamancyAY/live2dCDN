@@ -12,10 +12,10 @@ var homeIndex;
 var touch_body;
 var touch_head;
 var touch_special;
-var model_x = 5;
-var model_y = 0;
-var modelWidth = 380;
-var modelHight = 380;
+var model_x = 20;
+var model_y = 20;
+var modelWidth = 580;
+var modelHight = 580;
 var scale = 25;
 var startTime;
 function loadMotions(motions){
