@@ -1,7 +1,7 @@
 var LIVE2DCUBISMCORE = Live2DCubismCore
 //var baseModelPath = window.location.protocol+'//cdn.'+ window.location.host+"/Resource/live2d/";
-// var baseModelPath = "https://cdn.jsdelivr.net/gh/Eikanya/live2dCDN@1.1/live2dv3/assets/" ;
-var baseModelPath = "./assets/" ;
+var baseModelPath = "https://cdn.jsdelivr.net/gh/RedamancyAY/live2dCDN@latest/assets/" ;
+// var baseModelPath = "./assets/" ;
 var modelNames = ["hemin_3"];
 var modelPath;
 var app;
