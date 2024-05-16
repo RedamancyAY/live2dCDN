@@ -1,5 +1,5 @@
 // const live2d_path = "./";
-const live2d_path = "https://cdn.jsdelivr.net/gh/RedamancyAY/live2dCDN@latest/";
+const live2d_path = "https://cdn.jsdelivr.net/gh/RedamancyAY/live2dCDN@v0.5/";
 
 try {
     $('body').append('<div class="waifu"  style="position: fixed; right: 1px;"><div class="waifu-tips"> </div><canvas id="live2d" class="live2d"></canvas></div>')
